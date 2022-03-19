@@ -32,6 +32,7 @@
 *.out
 *.app
 
+lib/*
 .idea/
 /cmake-build-debug
 /sample
